@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "FilesInFolderRenamerFinder Console Application",
+  "authors": [ "Jan Nordberg" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+  },
+
+  "commands": {
+    "FilesInFolderRenamerFinder": "FilesInFolderRenamerFinder"
+  },
+
+  "frameworks": {
+    "dnx451": {
+      "frameworkAssemblies": {
+        "System.Windows.Forms": "4.0.0.0"
+      }
+    }
+    
+  }
+}
